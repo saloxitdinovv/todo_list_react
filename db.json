@@ -1,12 +1,22 @@
 {
   "tasks": [
     {
-      "id": "0aff",
+      "id": "b56c",
       "title": "1",
       "description": "1",
-      "time": "11:11",
-      "date": "1111-11-11",
-      "status": "inProcess"
+      "status": "new"
+    },
+    {
+      "id": "7ab8",
+      "title": "1",
+      "description": "1",
+      "status": "new"
+    },
+    {
+      "id": "3ce4",
+      "title": "1",
+      "description": "1",
+      "status": "new"
     }
   ]
 }

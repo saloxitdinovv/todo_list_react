@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 500 500" width="500" height="500" preserveAspectRatio="xMidYMid meet"
+    style="width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;"
+    id="Circle Loader">
+    <defs>
+        <clipPath id="__lottie_element_2">
+            <rect width="500" height="500" x="0" y="0" />
+        </clipPath>
+    </defs>
+    <g clip-path="url(#__lottie_element_2)">
+        <g transform="matrix(2.809999942779541,0,0,2.809999942779541,250,250)" opacity="1"
+            style="display: block;">
+            <g opacity="1" transform="matrix(0.153329998254776,0,0,0.153329998254776,0,0)">
+                <path stroke-linecap="round" stroke-linejoin="miter" fill-opacity="0"
+                    stroke-miterlimit="4" stroke="rgb(209,209,209)" stroke-opacity="1"
+                    stroke-width="25"
+                    d=" M0,-250 C137.97500610351562,-250 250,-137.97500610351562 250,0 C250,137.97500610351562 137.97500610351562,250 0,250 C-137.97500610351562,250 -250,137.97500610351562 -250,0 C-250,-137.97500610351562 -137.97500610351562,-250 0,-250z" />
+            </g>
+        </g>
+        <g
+            transform="matrix(-1.4857443571090698,-2.38509202003479,2.38509202003479,-1.4857443571090698,250,250)"
+            opacity="1" style="display: block;">
+            <g opacity="1" transform="matrix(0.153329998254776,0,0,0.153329998254776,0,0)">
+                <path stroke-linecap="round" stroke-linejoin="miter" fill-opacity="0"
+                    stroke-miterlimit="4" stroke="rgb(0,0,0)" stroke-opacity="1" stroke-width="25"
+                    d=" M-164.11300659179688,188.52999877929688 C-216.7270050048828,142.68299865722656 -250,75.19499969482422 -250,0 C-250,-94.43699645996094 -197.52000427246094,-176.7169952392578 -120.15799713134766,-219.24099731445312" />
+            </g>
+        </g>
+    </g>
+</svg>

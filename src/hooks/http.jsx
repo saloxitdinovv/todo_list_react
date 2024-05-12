@@ -1,7 +1,6 @@
 import axios from "axios";
 import { useCallback, useState } from "react";
 
-// const baseURL = import.meta.env.VITE_BASE_URL
 const baseURL = 'http://localhost:1212'
 
 export function HttpRequest() {
@@ -13,10 +12,10 @@ export function HttpRequest() {
             setLoading(true)
             const res = await fetch(baseURL + path, {
                 method,
-                body: body ? JSON.stringify(body) : body,   
-                // headers: {
-                //      Authorization: 'application/json'
-                // }
+                body: body ? JSON.stringify(body) : body,
+                headers: {
+                    // Authorization: 'application/json'
+                }
             })
 
             if (res?.ok) {
@@ -26,7 +25,7 @@ export function HttpRequest() {
             }
             setError(true)
             return res
-            
+
         } catch (e) {
             setLoading(false)
             setError(true)
