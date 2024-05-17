@@ -7,6 +7,7 @@ import Form from './components/Form';
 
 function App() {
   const [tasks, setTasks] = useState([])
+  const [update, setUpdate] = useState([])
   const { request } = HttpRequest()
 
   useEffect(() => {
@@ -15,7 +16,7 @@ function App() {
         console.log(res);
         setTasks(res)
       })
-  }, [request])
+  }, [update])
 
   return (
     <>
@@ -38,6 +39,8 @@ function App() {
                 status={item.status}
                 id={item.id}
                 key={idx}
+                update={update}
+                setUpdate={setUpdate}
               />
             ))
           }

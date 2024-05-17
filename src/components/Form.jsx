@@ -1,5 +1,3 @@
-// import { useForm } from 'react-hook-form';
-// import { HttpRequest } from './../hooks/http';
 import { useForm } from 'react-hook-form';
 import { HttpRequest } from './../hooks/http';
 

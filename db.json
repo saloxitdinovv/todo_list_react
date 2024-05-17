@@ -1,37 +1,7 @@
 {
   "tasks": [
     {
-      "id": "71a7",
-      "title": "1",
-      "description": "1",
-      "status": "inProcess"
-    },
-    {
-      "id": "9e98",
-      "title": "1",
-      "description": "1",
-      "status": "inProcess"
-    },
-    {
-      "id": "3524",
-      "title": "1",
-      "description": "1",
-      "status": "new"
-    },
-    {
-      "id": "b632",
-      "title": "3",
-      "description": "3",
-      "status": "new"
-    },
-    {
-      "id": "13a0",
-      "title": "4",
-      "description": "4",
-      "status": "new"
-    },
-    {
-      "id": "abf4",
+      "id": "606f",
       "title": "1",
       "description": "1",
       "status": "new"
